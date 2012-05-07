@@ -1,0 +1,7 @@
+parameters:
+#    atch34_project_test.example.class: Atch34\ProjectTestBundle\Example
+
+services:
+#    atch34_project_test.example:
+#        class: %atch34_project_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
